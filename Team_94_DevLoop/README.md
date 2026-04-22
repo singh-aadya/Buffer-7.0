@@ -232,55 +232,6 @@ Dijkstra: O((8+14) × log 8) = O(22 × 3) = O(66 operations)
 
 ---
 
-## 🎯 Demo Flow — Before vs After
-
-### Step 1 — Graph Setup (Page 1)
-- View the Maharashtra supply chain: 8 nodes, 14 edges
-- See node types: Farm, Cold Storage, Warehouse, Distribution Center, Retail
-- Understand graph structure: `HashMap<String, List<Edge>>`
-
-### Step 2 — Optimize Route (Page 2) — BEFORE
-
-Select: **Pune Farm Hub → Dadar Market**
-Default weights (balanced): Wc=0.4, Wt=0.3, Wco₂=0.3
-
-```
-BEFORE (Baseline — no optimization):
-  Cost:   ₹3,480    (naive route)
-  Time:   5.3 hours
-  Carbon: 49.5 kg CO₂
-```
-
-Click **Optimize Route →** Dijkstra runs → AFTER:
-
-```
-AFTER (Multi-Objective Dijkstra):
-  Cost:   ₹2,450    ← 29.6% cheaper
-  Time:   3.7 hours ← 30.2% faster
-  Carbon: 34.8 kg   ← 29.7% less CO₂
-
-Eco Points: +90 🌱
-Path: Pune Farm Hub → Pune Warehouse → Thane Dist. Center → Dadar Market
-```
-
-### Step 3 — Simulation (Page 3)
-
-Apply **Highway Blocked** preset:
-- Mumbai highway edges get `blocked = true`
-- Dijkstra re-routes via village road
-- New path avoids blocked segments automatically
-
-Apply **Monsoon Season**:
-- Multiple routes get 1.4× time + carbon multiplier
-- Dijkstra recalculates avoiding worst-affected edges
-
-### Step 4 — Dashboard (Page 4)
-- Cumulative cost saved, carbon reduced, eco points
-- SDG 2 (Zero Hunger), SDG 12 (Responsible Use), SDG 13 (Climate Action)
-- Trees equivalent of CO₂ saved
-
----
-
 ## 🌐 API Reference
 
 ### POST `/route/optimize`
