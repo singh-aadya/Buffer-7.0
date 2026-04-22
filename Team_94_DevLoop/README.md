@@ -2,25 +2,6 @@
 
 > **DSA-focused full-stack project** | Dijkstra's Algorithm | Multi-Objective Scoring | Dynamic Simulation
 >
-> <img width="1747" height="916" alt="image" src="https://github.com/user-attachments/assets/40e3bc5c-28c7-40b1-8b8d-57b78e9a2099" />
-
-<img width="1716" height="900" alt="image" src="https://github.com/user-attachments/assets/08a533d2-845b-4a73-be04-cd2f78b9139f" />
-
-<img width="1591" height="918" alt="image" src="https://github.com/user-attachments/assets/179fdf4d-b47c-435d-b256-5bfc09598ff8" />
-
-<img width="1542" height="563" alt="image" src="https://github.com/user-attachments/assets/31f81980-40c0-421c-b9cf-09cad4894230" />
-
-<img width="1346" height="809" alt="image" src="https://github.com/user-attachments/assets/6e1b3c37-e33c-4da0-89f2-79a40e94ab5c" />
-
-<img width="1117" height="834" alt="image" src="https://github.com/user-attachments/assets/befa3eca-d040-4ef1-803d-18505ebff897" />
-
-<img width="1548" height="410" alt="image" src="https://github.com/user-attachments/assets/97e0524a-65cb-4e0b-a07b-52e0cbb6fc3d" />
-
-
-<img width="1401" height="707" alt="image" src="https://github.com/user-attachments/assets/e04678f3-3653-4cc7-8470-ac728b87a094" />
-
-
-
 ---
 
 ## 📋 Table of Contents
@@ -65,6 +46,30 @@ Where weights `Wc + Wt + Wco₂ = 1.0` are configurable per delivery priority.
 | Styling   | Inline CSS (zero dependencies)      |
 
 ---
+
+> <img width="1747" height="916" alt="image" src="https://github.com/user-attachments/assets/40e3bc5c-28c7-40b1-8b8d-57b78e9a2099" />
+
+
+> <img width="1716" height="900" alt="image" src="https://github.com/user-attachments/assets/08a533d2-845b-4a73-be04-cd2f78b9139f" />
+
+
+> <img width="1591" height="918" alt="image" src="https://github.com/user-attachments/assets/179fdf4d-b47c-435d-b256-5bfc09598ff8" />
+
+
+> <img width="1542" height="563" alt="image" src="https://github.com/user-attachments/assets/31f81980-40c0-421c-b9cf-09cad4894230" />
+
+
+> <img width="1346" height="809" alt="image" src="https://github.com/user-attachments/assets/6e1b3c37-e33c-4da0-89f2-79a40e94ab5c" />
+
+
+> <img width="1117" height="834" alt="image" src="https://github.com/user-attachments/assets/befa3eca-d040-4ef1-803d-18505ebff897" />
+
+
+> <img width="1548" height="410" alt="image" src="https://github.com/user-attachments/assets/97e0524a-65cb-4e0b-a07b-52e0cbb6fc3d" />
+
+
+
+> <img width="1401" height="707" alt="image" src="https://github.com/user-attachments/assets/e04678f3-3653-4cc7-8470-ac728b87a094" />
 
 ## 🧩 DSA Concepts
 
