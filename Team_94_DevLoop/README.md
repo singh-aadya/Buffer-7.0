@@ -11,11 +11,10 @@
 3. [DSA Concepts](#-dsa-concepts)
 4. [Architecture](#-architecture)
 5. [Complexity Analysis](#-complexity-analysis)
-6. [Demo Flow — Before vs After](#-demo-flow--before-vs-after)
-7. [API Reference](#-api-reference)
-8. [How to Run](#-how-to-run)
-9. [Sample Data](#-sample-data)
-10. [SDG Impact](#-sdg-impact)
+6. [API Reference](#-api-reference)
+7. [How to Run](#-how-to-run)
+8. [Sample Data](#-sample-data)
+9. [SDG Impact](#-sdg-impact)
 
 ---
 
